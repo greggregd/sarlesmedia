@@ -1,0 +1,7 @@
+{
+  "name": "LuminaShot AI - OCVTS Edition",
+  "description": "Professional AI Headshot Photographer. Created for Mr. Sarles' Introduction to Multimedia class at Ocean County Vocational Technical School, Brick, NJ.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
